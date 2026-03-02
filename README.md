@@ -59,12 +59,12 @@ These steps ensured the dataset was clean, structured, and business-ready.
 
 ### Key Performance Indicators:
 
-* **Total Net Revenue:** ~9.75M
-* **Unique Transactions:** 23,796
-* **Total Units Sold:** ~5.57M
+* **Total Net Revenue:** ~10.49M
+* **Unique Transactions:** 24,575
+* **Total Units Sold:** ~4.62M
 * **Return Impact:** ~-894K (~9.17% of net revenue)
-* **Average Revenue per Transaction:** ~409.65
-* **Average Units per Transaction:** ~234.17
+* **Average Revenue per Transaction:** ~427.01
+* **Average Units per Transaction:** ~188.03
 
 These metrics establish a strong financial baseline for evaluating business performance.
 
