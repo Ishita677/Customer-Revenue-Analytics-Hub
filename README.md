@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Revenue & Customer Analysis
+# 🛒 Customer-Revenue-Analytics-Hub
 
 ## 📌 Project Overview
 
